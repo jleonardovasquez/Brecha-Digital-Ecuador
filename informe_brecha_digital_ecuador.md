@@ -39,6 +39,7 @@ Porcentaje de personas que usan internet, por grupo étnico:
 | 2024 | 49.7% | 82.5% | 68.0% | 81.8% |
 | 2025 | 57.3% | 82.4% | 73.8% | 83.6% |
 
+![Uso de internet por etnia en Ecuador 2025](brecha_etnica.png)
 La población indígena parte del nivel más bajo (40.2% en 2022) y, aunque crece con fuerza, sigue teniendo la brecha más amplia frente a la población mestiza (26.3 puntos en 2025). El analfabetismo digital en la población indígena bajó de 31.0% (2022) a 10.0% (2025), una mejora notable pero que arrancó desde un nivel muy alto.
 
 ### 3. Para qué se usa internet (nivel nacional)
